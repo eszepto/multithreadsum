@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1599078670 source:c:\users\b\desktop\new folder\mt2\main.c
+	<pthread.h>
+	<stdlib.h>
+	<stdio.h>
+
